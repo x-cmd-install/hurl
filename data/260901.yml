@@ -1,0 +1,70 @@
+about:
+  description: Hurl, run and test HTTP requests with plain text.
+  license: Apache-2.0
+  homepage: https://hurl.dev
+  head: 6ed01cf
+  archived: false
+  latestVersion: 8.0.1
+  collectedAt: 2026-09-01T05:20:05Z
+timeline:
+  created: 2020-08-25
+  lastCommit: 2026-08-31
+  lastRelease: 2026-04-29
+popularity:
+  star: 19172
+  watcher: 58
+  fork: 741
+  release: 31
+  contributor: 283
+  pullRequest: 966
+  issue: 969
+language:
+  Rust: 2406232
+  Hurl: 314354
+  Python: 231344
+  Shell: 141996
+  PowerShell: 118609
+  HTML: 64211
+  Roff: 22838
+  JavaScript: 6805
+  CSS: 6780
+  NSIS: 4884
+  Emacs Lisp: 2790
+  Vim Script: 2684
+  Dockerfile: 1862
+  Makefile: 240
+  C: 192
+totalLine: 3325821
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 46
+    openPR: 5
+    closedIssue: 2
+    openIssue: 1
+    commit: 54
+  last90d:
+    since: 2026-06-03
+    release: 0
+    mergedPR: 133
+    openPR: 5
+    closedIssue: 12
+    openIssue: 6
+    commit: 152
+  last180d:
+    since: 2026-03-05
+    release: 2
+    mergedPR: 291
+    openPR: 5
+    closedIssue: 27
+    openIssue: 14
+    commit: 342
+  last360d:
+    since: 2025-09-06
+    release: 3
+    mergedPR: 619
+    openPR: 5
+    closedIssue: 68
+    openIssue: 30
+    commit: 770
