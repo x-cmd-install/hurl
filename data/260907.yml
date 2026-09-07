@@ -2,24 +2,24 @@ about:
   description: "Hurl, run and test HTTP requests with plain text."
   license: Apache-2.0
   homepage: https://hurl.dev
-  head: 2fba2d0
+  head: da588db
   archived: false
   latestVersion: "8.0.1"
-  collectedAt: 2026-09-07T04:33:45Z
+  collectedAt: 2026-09-07T19:53:49Z
 timeline:
   created: 2020-08-25
-  lastCommit: 2026-09-05
+  lastCommit: 2026-09-07
   lastRelease: 2026-04-29
 popularity:
-  star: 19189
+  star: 19190
   watcher: 60
   fork: 743
   release: 31
   contributor: 284
-  pullRequest: 4175
+  pullRequest: 4177
   issue: 977
 language:
-  Rust: 2413526
+  Rust: 2419177
   Hurl: 315726
   Python: 231344
   Shell: 142133
@@ -34,71 +34,71 @@ language:
   Dockerfile: 1862
   Makefile: 240
   C: 192
-totalBytes: 3334777
+totalBytes: 3340428
 recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 40
-    openPR: 8
+    mergedPR: 43
+    openPR: 6
     closedIssue: 8
     openIssue: 2
-    commit: 47
+    commit: 52
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 89
-    openPR: 8
+    mergedPR: 92
+    openPR: 6
     closedIssue: 12
     openIssue: 4
-    commit: 104
+    commit: 109
   last90d:
     since: 2026-06-09
     release: 0
-    mergedPR: 129
-    openPR: 8
+    mergedPR: 132
+    openPR: 6
     closedIssue: 18
     openIssue: 6
-    commit: 145
+    commit: 150
   last180d:
     since: 2026-03-11
     release: 2
-    mergedPR: 286
-    openPR: 8
+    mergedPR: 289
+    openPR: 6
     closedIssue: 32
     openIssue: 13
-    commit: 338
+    commit: 343
   last360d:
     since: 2025-09-12
     release: 3
-    mergedPR: 620
-    openPR: 8
+    mergedPR: 623
+    openPR: 6
     closedIssue: 74
     openIssue: 30
-    commit: 768
+    commit: 773
   last720d:
     since: 2024-09-17
     release: 7
-    mergedPR: 1369
-    openPR: 8
+    mergedPR: 1372
+    openPR: 6
     closedIssue: 235
     openIssue: 95
-    commit: 1727
+    commit: 1732
 total:
   release: 31
-  mergedPR: 3204
-  openPR: 8
+  mergedPR: 3207
+  openPR: 6
   closedIssue: 778
   openIssue: 199
-  commit: 4525
+  commit: 4530
 ---
 path: /home/runner/.x-repo/github.com/Orange-OpenSource/hurl
-collectedAt: 2026-09-07T04:38:22Z
+collectedAt: 2026-09-07T19:58:43Z
 loc:
   Rust:
-    code: 58104
-    comments: 6122
-    blanks: 5256
+    code: 58218
+    comments: 6124
+    blanks: 5274
     files: 276
   Html:
     code: 35506
@@ -196,15 +196,15 @@ loc:
     blanks: 0
     files: 9
 total:
-  code: 135578
-  comments: 47835
-  blanks: 24104
+  code: 135692
+  comments: 47845
+  blanks: 24122
   files: 1623
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:38:24+00:00
+  collectedAt: 2026-09-07T19:58:44+00:00
   platform:
     darwin/arm64:
       name:  hurl-8.0.1-aarch64-apple-darwin.tar.gz
