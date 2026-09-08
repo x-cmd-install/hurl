@@ -5,7 +5,7 @@ about:
   head: da588db
   archived: false
   latestVersion: "8.0.1"
-  collectedAt: 2026-09-08T01:42:21Z
+  collectedAt: 2026-09-08T04:30:29Z
 timeline:
   created: 2020-08-25
   lastCommit: 2026-09-07
@@ -16,7 +16,7 @@ popularity:
   fork: 743
   release: 31
   contributor: 284
-  pullRequest: 4177
+  pullRequest: 4178
   issue: 977
 language:
   Rust: 2419177
@@ -40,7 +40,7 @@ recent:
     since: 2026-08-09
     release: 0
     mergedPR: 43
-    openPR: 6
+    openPR: 7
     closedIssue: 8
     openIssue: 2
     commit: 52
@@ -48,7 +48,7 @@ recent:
     since: 2026-07-10
     release: 0
     mergedPR: 90
-    openPR: 6
+    openPR: 7
     closedIssue: 12
     openIssue: 4
     commit: 109
@@ -56,7 +56,7 @@ recent:
     since: 2026-06-10
     release: 0
     mergedPR: 129
-    openPR: 6
+    openPR: 7
     closedIssue: 18
     openIssue: 6
     commit: 150
@@ -64,7 +64,7 @@ recent:
     since: 2026-03-12
     release: 2
     mergedPR: 289
-    openPR: 6
+    openPR: 7
     closedIssue: 32
     openIssue: 12
     commit: 343
@@ -72,7 +72,7 @@ recent:
     since: 2025-09-13
     release: 3
     mergedPR: 623
-    openPR: 6
+    openPR: 7
     closedIssue: 74
     openIssue: 30
     commit: 773
@@ -80,20 +80,20 @@ recent:
     since: 2024-09-18
     release: 7
     mergedPR: 1371
-    openPR: 6
+    openPR: 7
     closedIssue: 234
     openIssue: 95
     commit: 1731
 total:
   release: 31
   mergedPR: 3207
-  openPR: 6
+  openPR: 7
   closedIssue: 778
   openIssue: 199
   commit: 4530
 ---
 path: /home/runner/.x-repo/github.com/Orange-OpenSource/hurl
-collectedAt: 2026-09-08T01:47:11Z
+collectedAt: 2026-09-08T04:35:18Z
 loc:
   Rust:
     code: 58218
