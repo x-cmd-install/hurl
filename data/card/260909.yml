@@ -1,0 +1,209 @@
+about:
+  description: "Hurl, run and test HTTP requests with plain text."
+  license: Apache-2.0
+  homepage: https://hurl.dev
+  head: 768bd47
+  archived: false
+  latestVersion: "8.0.1"
+  latestRelease: "8.0.1"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T04:42:51Z
+timeline:
+  created: 2020-08-25
+  lastCommit: 2026-09-08
+  lastVersion: 2026-04-29
+  lastRelease: 2026-04-29
+  lastPrerelease: 
+popularity:
+  star: 19190
+  watcher: 60
+  fork: 743
+  release: 31
+  contributor: 284
+  pullRequest: 4182
+  issue: 977
+language:
+  Rust: 2422329
+  Hurl: 315726
+  Python: 231344
+  Shell: 142133
+  PowerShell: 118762
+  HTML: 64211
+  Roff: 22838
+  JavaScript: 6805
+  CSS: 6780
+  NSIS: 4884
+  Emacs Lisp: 2790
+  Vim Script: 2684
+  Dockerfile: 1862
+  Makefile: 240
+  C: 192
+totalBytes: 3343580
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 0
+    mergedPR: 47
+    openPR: 7
+    closedIssue: 8
+    openIssue: 2
+    commit: 57
+  last60d:
+    since: 2026-07-11
+    release: 0
+    mergedPR: 94
+    openPR: 7
+    closedIssue: 12
+    openIssue: 4
+    commit: 114
+  last90d:
+    since: 2026-06-11
+    release: 0
+    mergedPR: 131
+    openPR: 7
+    closedIssue: 18
+    openIssue: 6
+    commit: 155
+  last180d:
+    since: 2026-03-13
+    release: 2
+    mergedPR: 288
+    openPR: 7
+    closedIssue: 32
+    openIssue: 12
+    commit: 348
+  last360d:
+    since: 2025-09-14
+    release: 3
+    mergedPR: 626
+    openPR: 7
+    closedIssue: 74
+    openIssue: 30
+    commit: 778
+  last720d:
+    since: 2024-09-19
+    release: 7
+    mergedPR: 1372
+    openPR: 7
+    closedIssue: 231
+    openIssue: 95
+    commit: 1733
+total:
+  release: 31
+  mergedPR: 3211
+  openPR: 7
+  closedIssue: 778
+  openIssue: 199
+  commit: 4535
+---
+path: /home/runner/.x-repo/github.com/Orange-OpenSource/hurl
+collectedAt: 2026-09-09T04:48:54Z
+loc:
+  Rust:
+    code: 58275
+    comments: 6130
+    blanks: 5280
+    files: 276
+  Html:
+    code: 35506
+    comments: 0
+    blanks: 2234
+    files: 32
+  Json:
+    code: 13649
+    comments: 0
+    blanks: 0
+    files: 31
+  Python:
+    code: 6347
+    comments: 229
+    blanks: 1406
+    files: 197
+  Sh:
+    code: 3347
+    comments: 632
+    blanks: 788
+    files: 500
+  PowerShell:
+    code: 2564
+    comments: 115
+    blanks: 628
+    files: 460
+  Css:
+    code: 428
+    comments: 0
+    blanks: 105
+    files: 9
+  JavaScript:
+    code: 133
+    comments: 58
+    blanks: 31
+    files: 5
+  Toml:
+    code: 109
+    comments: 9
+    blanks: 18
+    files: 7
+  Fish:
+    code: 91
+    comments: 0
+    blanks: 2
+    files: 2
+  Elisp:
+    code: 73
+    comments: 24
+    blanks: 23
+    files: 1
+  VimScript:
+    code: 53
+    comments: 1
+    blanks: 7
+    files: 3
+  Svg:
+    code: 51
+    comments: 1
+    blanks: 0
+    files: 14
+  Dockerfile:
+    code: 41
+    comments: 0
+    blanks: 1
+    files: 1
+  Bash:
+    code: 20
+    comments: 6
+    blanks: 4
+    files: 2
+  Xml:
+    code: 18
+    comments: 4
+    blanks: 0
+    files: 1
+  Autoconf:
+    code: 17
+    comments: 0
+    blanks: 1
+    files: 1
+  C:
+    code: 2
+    comments: 2
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 38074
+    blanks: 12302
+    files: 71
+  Text:
+    code: 0
+    comments: 37
+    blanks: 0
+    files: 9
+total:
+  code: 135749
+  comments: 47849
+  blanks: 24127
+  files: 1623
+---
+
+---
