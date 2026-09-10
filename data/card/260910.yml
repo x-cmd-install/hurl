@@ -2,12 +2,12 @@ about:
   description: "Hurl, run and test HTTP requests with plain text."
   license: Apache-2.0
   homepage: https://hurl.dev
-  head: 76f68ae
+  head: 5c26afe
   archived: false
   latestVersion: "8.0.1"
   latestRelease: "8.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:47:27Z
+  collectedAt: 2026-09-10T16:08:52Z
 timeline:
   created: 2020-08-25
   lastCommit: 2026-09-10
@@ -15,89 +15,89 @@ timeline:
   lastRelease: 2026-04-29
   lastPrerelease: 
 popularity:
-  star: 19190
+  star: 19192
   watcher: 60
   fork: 743
   release: 31
   contributor: 284
-  pullRequest: 4188
+  pullRequest: 4190
   issue: 977
 language:
   Rust: 2422304
   Hurl: 315726
   Python: 231344
   Shell: 142133
-  PowerShell: 118762
+  PowerShell: 118479
   HTML: 64211
   Roff: 22838
   JavaScript: 6805
   CSS: 6780
-  NSIS: 4884
+  NSIS: 4876
   Emacs Lisp: 2790
   Vim Script: 2684
   Dockerfile: 1862
   Makefile: 240
   C: 192
-totalBytes: 3343555
+totalBytes: 3343264
 recent:
   last30d:
     since: 2026-08-11
     release: 0
-    mergedPR: 50
+    mergedPR: 51
     openPR: 7
     closedIssue: 8
     openIssue: 1
-    commit: 63
+    commit: 64
   last60d:
     since: 2026-07-12
     release: 0
-    mergedPR: 98
+    mergedPR: 99
     openPR: 7
     closedIssue: 11
     openIssue: 4
-    commit: 120
+    commit: 121
   last90d:
     since: 2026-06-12
     release: 0
-    mergedPR: 134
+    mergedPR: 135
     openPR: 7
     closedIssue: 18
     openIssue: 6
-    commit: 161
+    commit: 162
   last180d:
     since: 2026-03-14
     release: 2
-    mergedPR: 292
+    mergedPR: 293
     openPR: 7
     closedIssue: 32
     openIssue: 12
-    commit: 354
+    commit: 355
   last360d:
     since: 2025-09-15
     release: 3
-    mergedPR: 628
+    mergedPR: 629
     openPR: 7
     closedIssue: 74
     openIssue: 29
-    commit: 784
+    commit: 785
   last720d:
     since: 2024-09-20
     release: 7
-    mergedPR: 1375
+    mergedPR: 1376
     openPR: 7
     closedIssue: 230
     openIssue: 95
-    commit: 1735
+    commit: 1736
 total:
   release: 31
-  mergedPR: 3216
+  mergedPR: 3217
   openPR: 7
   closedIssue: 778
   openIssue: 199
-  commit: 4541
+  commit: 4542
 ---
 path: /home/runner/.x-repo/github.com/Orange-OpenSource/hurl
-collectedAt: 2026-09-10T04:52:38Z
+collectedAt: 2026-09-10T16:14:01Z
 loc:
   Rust:
     code: 58280
@@ -125,7 +125,7 @@ loc:
     blanks: 788
     files: 500
   PowerShell:
-    code: 2564
+    code: 2561
     comments: 115
     blanks: 628
     files: 460
@@ -200,7 +200,7 @@ loc:
     blanks: 0
     files: 9
 total:
-  code: 135754
+  code: 135751
   comments: 47848
   blanks: 24128
   files: 1623
