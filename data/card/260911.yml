@@ -7,7 +7,7 @@ about:
   latestVersion: "8.0.1"
   latestRelease: "8.0.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:21:06Z
+  collectedAt: 2026-09-11T04:35:23Z
 timeline:
   created: 2020-08-25
   lastCommit: 2026-09-10
@@ -97,7 +97,7 @@ total:
   commit: 4542
 ---
 path: /home/runner/.x-repo/github.com/Orange-OpenSource/hurl
-collectedAt: 2026-09-11T00:25:45Z
+collectedAt: 2026-09-11T04:40:00Z
 loc:
   Rust:
     code: 58280
