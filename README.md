@@ -33,27 +33,27 @@ Total: **120,834** lines of code across **1043** files in the top 5 languages.
 ## Release
 
 - **Latest**: `8.0.1` (2026-04-29)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-12
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 19,192 · **Forks**: 743 · **Open issues**: 978 · **Contributors**: 285
+- **Stars**: 19,195 · **Forks**: 743 · **Open issues**: 978 · **Contributors**: 285
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 3222 · **Open PRs**: 6 · **Closed issues**: 781 · **Open issues**: 197 · **Commits**: 4548
+- **Releases**: 31 · **Merged PRs**: 3223 · **Open PRs**: 6 · **Closed issues**: 781 · **Open issues**: 197 · **Commits**: 4549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 56 | 6 | 9 | 1 | 70 |
-| last60d | 2026-07-13 | 0 | 104 | 6 | 12 | 4 | 127 |
-| 90d | 2026-06-13 | 0 | 138 | 6 | 19 | 5 | 168 |
-| last180d | 2026-03-15 | 2 | 298 | 6 | 35 | 10 | 361 |
-| 360d | 2025-09-16 | 3 | 633 | 6 | 76 | 26 | 791 |
-| last720d | 2024-09-21 | 7 | 1380 | 6 | 233 | 93 | 1738 |
+| 30d | 2026-08-14 | 0 | 52 | 6 | 9 | 1 | 71 |
+| last60d | 2026-07-15 | 0 | 103 | 6 | 12 | 4 | 128 |
+| 90d | 2026-06-15 | 0 | 139 | 6 | 18 | 5 | 169 |
+| last180d | 2026-03-17 | 2 | 296 | 6 | 35 | 10 | 362 |
+| 360d | 2025-09-18 | 3 | 630 | 6 | 76 | 26 | 792 |
+| last720d | 2024-09-23 | 7 | 1380 | 6 | 231 | 93 | 1738 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:36:16Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T04:50:08Z._
