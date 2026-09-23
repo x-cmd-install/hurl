@@ -4,7 +4,7 @@
 
 Hurl, run and test HTTP requests with plain text.
 
-[![x-cmd/install — hurl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hurl.svg)](https://x-cmd.com/install/hurl)
+[![x-cmd/install — hurl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hurl.svg)](https://x-cmd.com/install/hurl)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **120,899** lines of code across **1048** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,209 · **Forks**: 745 · **Open issues**: 979 · **Contributors**: 286
+- **Stars**: 19,212 · **Forks**: 745 · **Open issues**: 979 · **Contributors**: 286
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **120,899** lines of code across **1048** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 58 | 2 | 11 | 0 | 61 |
-| last60d | 2026-07-24 | 0 | 98 | 2 | 14 | 1 | 118 |
-| 90d | 2026-06-24 | 0 | 136 | 2 | 19 | 3 | 156 |
-| last180d | 2026-03-26 | 2 | 291 | 2 | 34 | 8 | 338 |
-| 360d | 2025-09-27 | 3 | 631 | 2 | 70 | 24 | 783 |
-| last720d | 2024-10-02 | 7 | 1383 | 2 | 231 | 91 | 1736 |
+| 30d | 2026-08-24 | 0 | 58 | 2 | 11 | 0 | 61 |
+| last60d | 2026-07-25 | 0 | 98 | 2 | 14 | 1 | 118 |
+| 90d | 2026-06-25 | 0 | 135 | 2 | 19 | 3 | 156 |
+| last180d | 2026-03-27 | 2 | 282 | 2 | 34 | 7 | 338 |
+| 360d | 2025-09-28 | 3 | 631 | 2 | 70 | 24 | 783 |
+| last720d | 2024-10-03 | 7 | 1383 | 2 | 231 | 91 | 1733 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:00:09Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:47:31Z._
