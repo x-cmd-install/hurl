@@ -33,27 +33,27 @@ Total: **120,608** lines of code across **1047** files in the top 5 languages.
 ## Release
 
 - **Latest**: `8.0.1` (2026-04-29)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-07
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 19,237 · **Forks**: 747 · **Open issues**: 982 · **Contributors**: 286
+- **Stars**: 19,242 · **Forks**: 747 · **Open issues**: 978 · **Contributors**: 286
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 3246 · **Open PRs**: 1 · **Closed issues**: 785 · **Open issues**: 197 · **Commits**: 4574
+- **Releases**: 31 · **Merged PRs**: 3247 · **Open PRs**: 1 · **Closed issues**: 781 · **Open issues**: 197 · **Commits**: 4575
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 41 | 0 | 4 | 1 | 31 |
-| last60d | 2026-08-07 | 0 | 83 | 1 | 14 | 1 | 97 |
-| 90d | 2026-07-08 | 0 | 131 | 1 | 18 | 3 | 154 |
-| last180d | 2026-04-09 | 2 | 271 | 1 | 33 | 8 | 319 |
-| 360d | 2025-10-11 | 3 | 618 | 1 | 68 | 24 | 768 |
-| last720d | 2024-10-16 | 7 | 1378 | 1 | 230 | 89 | 1729 |
+| 30d | 2026-09-07 | 0 | 40 | 0 | 4 | 1 | 32 |
+| last60d | 2026-08-08 | 0 | 83 | 1 | 10 | 1 | 98 |
+| 90d | 2026-07-09 | 0 | 132 | 1 | 14 | 3 | 155 |
+| last180d | 2026-04-10 | 2 | 267 | 1 | 29 | 8 | 320 |
+| 360d | 2025-10-12 | 3 | 619 | 1 | 64 | 24 | 769 |
+| last720d | 2024-10-17 | 7 | 1378 | 1 | 224 | 89 | 1728 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:29:06Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:00:15Z._
