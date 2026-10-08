@@ -33,27 +33,27 @@ Total: **120,608** lines of code across **1047** files in the top 5 languages.
 ## Release
 
 - **Latest**: `8.0.1` (2026-04-29)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 19,242 · **Forks**: 747 · **Open issues**: 978 · **Contributors**: 286
+- **Stars**: 19,246 · **Forks**: 747 · **Open issues**: 978 · **Contributors**: 286
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 3247 · **Open PRs**: 1 · **Closed issues**: 781 · **Open issues**: 197 · **Commits**: 4575
+- **Releases**: 31 · **Merged PRs**: 3249 · **Open PRs**: 1 · **Closed issues**: 781 · **Open issues**: 197 · **Commits**: 4577
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 40 | 0 | 4 | 1 | 32 |
-| last60d | 2026-08-08 | 0 | 83 | 1 | 10 | 1 | 98 |
-| 90d | 2026-07-09 | 0 | 132 | 1 | 14 | 3 | 155 |
-| last180d | 2026-04-10 | 2 | 267 | 1 | 29 | 8 | 320 |
-| 360d | 2025-10-12 | 3 | 619 | 1 | 64 | 24 | 769 |
-| last720d | 2024-10-17 | 7 | 1378 | 1 | 224 | 89 | 1728 |
+| 30d | 2026-09-08 | 0 | 38 | 0 | 4 | 1 | 34 |
+| last60d | 2026-08-09 | 0 | 85 | 1 | 10 | 1 | 100 |
+| 90d | 2026-07-10 | 0 | 132 | 1 | 14 | 3 | 157 |
+| last180d | 2026-04-11 | 2 | 266 | 1 | 29 | 8 | 322 |
+| 360d | 2025-10-13 | 3 | 620 | 1 | 64 | 24 | 771 |
+| last720d | 2024-10-18 | 7 | 1379 | 1 | 224 | 89 | 1729 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:00:15Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:08:20Z._
