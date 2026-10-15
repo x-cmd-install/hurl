@@ -33,27 +33,27 @@ Total: **120,914** lines of code across **1050** files in the top 5 languages.
 ## Release
 
 - **Latest**: `8.0.1` (2026-04-29)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 19,250 · **Forks**: 749 · **Open issues**: 981 · **Contributors**: 286
+- **Stars**: 19,254 · **Forks**: 751 · **Open issues**: 980 · **Contributors**: 286
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 3260 · **Open PRs**: 2 · **Closed issues**: 783 · **Open issues**: 198 · **Commits**: 4590
+- **Releases**: 31 · **Merged PRs**: 3261 · **Open PRs**: 1 · **Closed issues**: 781 · **Open issues**: 199 · **Commits**: 4591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 30 | 2 | 3 | 3 | 33 |
-| last60d | 2026-08-15 | 0 | 88 | 2 | 10 | 3 | 104 |
-| 90d | 2026-07-16 | 0 | 138 | 2 | 14 | 5 | 164 |
-| last180d | 2026-04-17 | 2 | 263 | 2 | 29 | 10 | 313 |
-| 360d | 2025-10-19 | 3 | 622 | 2 | 64 | 24 | 771 |
-| last720d | 2024-10-24 | 7 | 1378 | 2 | 222 | 90 | 1731 |
+| 30d | 2026-09-15 | 0 | 30 | 1 | 3 | 4 | 34 |
+| last60d | 2026-08-16 | 0 | 89 | 1 | 8 | 4 | 105 |
+| 90d | 2026-07-17 | 0 | 137 | 1 | 12 | 6 | 165 |
+| last180d | 2026-04-18 | 2 | 262 | 1 | 27 | 11 | 314 |
+| 360d | 2025-10-20 | 3 | 622 | 1 | 62 | 24 | 772 |
+| last720d | 2024-10-25 | 7 | 1374 | 1 | 218 | 90 | 1728 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:03:04Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:41:34Z._
