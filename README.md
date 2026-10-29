@@ -32,49 +32,49 @@ Total: **100,194** lines of code across **1051** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `8.0.1` (2026-04-29)
-- **Last commit**: 2026-10-27
+- **Latest**: `8.1.0` (2026-10-28)
+- **Last commit**: 2026-10-28
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 19,283 · **Forks**: 752 · **Open issues**: 990 · **Contributors**: 287
+- **Stars**: 19,286 · **Forks**: 751 · **Open issues**: 990 · **Contributors**: 287
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 3297 · **Open PRs**: 2 · **Closed issues**: 793 · **Open issues**: 197 · **Commits**: 4631
+- **Releases**: 32 · **Merged PRs**: 3300 · **Open PRs**: 1 · **Closed issues**: 793 · **Open issues**: 197 · **Commits**: 4634
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 57 | 2 | 12 | 3 | 65 |
-| last60d | 2026-08-29 | 0 | 108 | 2 | 18 | 3 | 115 |
-| 90d | 2026-07-30 | 0 | 155 | 2 | 21 | 4 | 178 |
-| last180d | 2026-05-01 | 0 | 270 | 2 | 34 | 10 | 325 |
-| 360d | 2025-11-02 | 3 | 640 | 2 | 70 | 23 | 786 |
-| last720d | 2024-11-07 | 7 | 1386 | 2 | 229 | 85 | 1732 |
+| 30d | 2026-09-29 | 1 | 60 | 1 | 12 | 3 | 68 |
+| last60d | 2026-08-30 | 1 | 110 | 1 | 18 | 3 | 118 |
+| 90d | 2026-07-31 | 1 | 153 | 1 | 21 | 3 | 181 |
+| last180d | 2026-05-02 | 1 | 273 | 1 | 34 | 10 | 328 |
+| 360d | 2025-11-03 | 4 | 640 | 1 | 69 | 23 | 789 |
+| last720d | 2024-11-08 | 8 | 1383 | 1 | 228 | 85 | 1731 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [hurl-8.0.1-aarch64-apple-darwin.tar.gz](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-aarch64-apple-darwin.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
-| [hurl-8.0.1-aarch64-apple-darwin.tar.gz.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-aarch64-apple-darwin.tar.gz.sha256) | 65 B | `native/darwin/arm64` |
-| [hurl-8.0.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-aarch64-unknown-linux-gnu.tar.gz) | 2.9 MiB | `native/linux/arm64/glibc` |
-| [hurl-8.0.1-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-aarch64-unknown-linux-gnu.tar.gz.sha256) | 65 B | `native/linux/arm64/glibc` |
-| [hurl-8.0.1-x86_64-apple-darwin.tar.gz](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-x86_64-apple-darwin.tar.gz) | 2.9 MiB | `native/darwin/x64` |
-| [hurl-8.0.1-x86_64-apple-darwin.tar.gz.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-x86_64-apple-darwin.tar.gz.sha256) | 65 B | `native/darwin/x64` |
-| [hurl-8.0.1-x86_64-pc-windows-msvc-installer.exe](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-x86_64-pc-windows-msvc-installer.exe) | 4.7 MiB | `native/win/x64` |
-| [hurl-8.0.1-x86_64-pc-windows-msvc-installer.exe.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-x86_64-pc-windows-msvc-installer.exe.sha256) | 65 B | `native/win/x64` |
-| [hurl-8.0.1-x86_64-pc-windows-msvc.zip](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-x86_64-pc-windows-msvc.zip) | 4.5 MiB | `native/win/x64` |
-| [hurl-8.0.1-x86_64-pc-windows-msvc.zip.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-x86_64-pc-windows-msvc.zip.sha256) | 65 B | `native/win/x64` |
-| [hurl-8.0.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-x86_64-unknown-linux-gnu.tar.gz) | 3.1 MiB | `native/linux/x64/glibc` |
-| [hurl-8.0.1-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl-8.0.1-x86_64-unknown-linux-gnu.tar.gz.sha256) | 65 B | `native/linux/x64/glibc` |
-| [hurl_8.0.1_amd64.deb](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl_8.0.1_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
-| [hurl_8.0.1_amd64.deb.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl_8.0.1_amd64.deb.sha256) | 65 B | `other` |
-| [hurl_8.0.1_arm64.deb](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl_8.0.1_arm64.deb) | 1.9 MiB | `runtime/deb/arm64` |
-| [hurl_8.0.1_arm64.deb.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.0.1/hurl_8.0.1_arm64.deb.sha256) | 65 B | `other` |
+| [hurl-8.1.0-aarch64-apple-darwin.tar.gz](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-aarch64-apple-darwin.tar.gz) | 2.7 MiB | `native/darwin/arm64` |
+| [hurl-8.1.0-aarch64-apple-darwin.tar.gz.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-aarch64-apple-darwin.tar.gz.sha256) | 65 B | `native/darwin/arm64` |
+| [hurl-8.1.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-aarch64-unknown-linux-gnu.tar.gz) | 3.0 MiB | `native/linux/arm64/glibc` |
+| [hurl-8.1.0-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-aarch64-unknown-linux-gnu.tar.gz.sha256) | 65 B | `native/linux/arm64/glibc` |
+| [hurl-8.1.0-x86_64-apple-darwin.tar.gz](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-x86_64-apple-darwin.tar.gz) | 3.0 MiB | `native/darwin/x64` |
+| [hurl-8.1.0-x86_64-apple-darwin.tar.gz.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-x86_64-apple-darwin.tar.gz.sha256) | 65 B | `native/darwin/x64` |
+| [hurl-8.1.0-x86_64-pc-windows-msvc-installer.exe](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-x86_64-pc-windows-msvc-installer.exe) | 4.9 MiB | `native/win/x64` |
+| [hurl-8.1.0-x86_64-pc-windows-msvc-installer.exe.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-x86_64-pc-windows-msvc-installer.exe.sha256) | 65 B | `native/win/x64` |
+| [hurl-8.1.0-x86_64-pc-windows-msvc.zip](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-x86_64-pc-windows-msvc.zip) | 4.8 MiB | `native/win/x64` |
+| [hurl-8.1.0-x86_64-pc-windows-msvc.zip.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-x86_64-pc-windows-msvc.zip.sha256) | 65 B | `native/win/x64` |
+| [hurl-8.1.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-x86_64-unknown-linux-gnu.tar.gz) | 3.2 MiB | `native/linux/x64/glibc` |
+| [hurl-8.1.0-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl-8.1.0-x86_64-unknown-linux-gnu.tar.gz.sha256) | 65 B | `native/linux/x64/glibc` |
+| [hurl_8.1.0_amd64.deb](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl_8.1.0_amd64.deb) | 2.0 MiB | `runtime/deb/amd64` |
+| [hurl_8.1.0_amd64.deb.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl_8.1.0_amd64.deb.sha256) | 65 B | `other` |
+| [hurl_8.1.0_arm64.deb](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl_8.1.0_arm64.deb) | 1.9 MiB | `runtime/deb/arm64` |
+| [hurl_8.1.0_arm64.deb.sha256](https://github.com/Orange-OpenSource/hurl/releases/download/8.1.0/hurl_8.1.0_arm64.deb.sha256) | 65 B | `other` |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:47:20Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:57:35Z._
