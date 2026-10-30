@@ -33,27 +33,27 @@ Total: **100,194** lines of code across **1051** files in the top 5 languages.
 ## Release
 
 - **Latest**: `8.1.0` (2026-10-28)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 19,286 · **Forks**: 751 · **Open issues**: 990 · **Contributors**: 287
+- **Stars**: 19,288 · **Forks**: 751 · **Open issues**: 992 · **Contributors**: 287
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 3300 · **Open PRs**: 1 · **Closed issues**: 793 · **Open issues**: 197 · **Commits**: 4634
+- **Releases**: 32 · **Merged PRs**: 3302 · **Open PRs**: 1 · **Closed issues**: 794 · **Open issues**: 198 · **Commits**: 4636
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 1 | 60 | 1 | 12 | 3 | 68 |
-| last60d | 2026-08-30 | 1 | 110 | 1 | 18 | 3 | 118 |
-| 90d | 2026-07-31 | 1 | 153 | 1 | 21 | 3 | 181 |
-| last180d | 2026-05-02 | 1 | 273 | 1 | 34 | 10 | 328 |
-| 360d | 2025-11-03 | 4 | 640 | 1 | 69 | 23 | 789 |
-| last720d | 2024-11-08 | 8 | 1383 | 1 | 228 | 85 | 1731 |
+| 30d | 2026-09-30 | 1 | 62 | 1 | 13 | 4 | 70 |
+| last60d | 2026-08-31 | 1 | 107 | 1 | 19 | 4 | 120 |
+| 90d | 2026-08-01 | 1 | 154 | 1 | 22 | 4 | 183 |
+| last180d | 2026-05-03 | 1 | 274 | 1 | 34 | 11 | 330 |
+| 360d | 2025-11-04 | 4 | 641 | 1 | 70 | 24 | 791 |
+| last720d | 2024-11-09 | 8 | 1381 | 1 | 229 | 86 | 1727 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:57:35Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:47:14Z._
