@@ -14,14 +14,14 @@ x install hurl
 
 ## Code insight
 
-Total: **100,194** lines of code across **1051** files in the top 5 languages.
+Total: **93,938** lines of code across **1051** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 58,679 | 6,122 | 5,363 | 275 |
-| Html | 14,350 | 0 | 430 | 28 |
+| Rust | 59,040 | 6,140 | 5,391 | 276 |
 | Json | 13,649 | 0 | 0 | 31 |
-| Python | 6,460 | 212 | 1,436 | 200 |
+| Html | 7,731 | 0 | 48 | 27 |
+| Python | 6,462 | 212 | 1,436 | 200 |
 | Sh | 3,391 | 651 | 807 | 517 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **100,194** lines of code across **1051** files in the top 5 languages.
 ## Release
 
 - **Latest**: `8.1.0` (2026-10-28)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 19,288 · **Forks**: 751 · **Open issues**: 992 · **Contributors**: 287
+- **Stars**: 19,291 · **Forks**: 752 · **Open issues**: 992 · **Contributors**: 287
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 3302 · **Open PRs**: 1 · **Closed issues**: 794 · **Open issues**: 198 · **Commits**: 4636
+- **Releases**: 32 · **Merged PRs**: 3308 · **Open PRs**: 1 · **Closed issues**: 794 · **Open issues**: 198 · **Commits**: 4642
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 62 | 1 | 13 | 4 | 70 |
-| last60d | 2026-08-31 | 1 | 107 | 1 | 19 | 4 | 120 |
-| 90d | 2026-08-01 | 1 | 154 | 1 | 22 | 4 | 183 |
-| last180d | 2026-05-03 | 1 | 274 | 1 | 34 | 11 | 330 |
-| 360d | 2025-11-04 | 4 | 641 | 1 | 70 | 24 | 791 |
-| last720d | 2024-11-09 | 8 | 1381 | 1 | 229 | 86 | 1727 |
+| 30d | 2026-10-01 | 1 | 66 | 1 | 13 | 4 | 75 |
+| last60d | 2026-09-01 | 1 | 113 | 1 | 17 | 4 | 126 |
+| 90d | 2026-08-02 | 1 | 159 | 1 | 22 | 4 | 189 |
+| last180d | 2026-05-04 | 1 | 279 | 1 | 34 | 11 | 336 |
+| 360d | 2025-11-05 | 4 | 645 | 1 | 70 | 24 | 797 |
+| last720d | 2024-11-10 | 8 | 1386 | 1 | 229 | 86 | 1729 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:47:14Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:36:38Z._
