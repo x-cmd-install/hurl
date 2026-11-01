@@ -38,7 +38,7 @@ Total: **93,938** lines of code across **1051** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,291 · **Forks**: 752 · **Open issues**: 992 · **Contributors**: 287
+- **Stars**: 19,292 · **Forks**: 752 · **Open issues**: 992 · **Contributors**: 287
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **93,938** lines of code across **1051** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 1 | 66 | 1 | 13 | 4 | 75 |
-| last60d | 2026-09-01 | 1 | 113 | 1 | 17 | 4 | 126 |
-| 90d | 2026-08-02 | 1 | 159 | 1 | 22 | 4 | 189 |
-| last180d | 2026-05-04 | 1 | 279 | 1 | 34 | 11 | 336 |
-| 360d | 2025-11-05 | 4 | 645 | 1 | 70 | 24 | 797 |
-| last720d | 2024-11-10 | 8 | 1386 | 1 | 229 | 86 | 1729 |
+| 30d | 2026-10-02 | 1 | 62 | 1 | 12 | 3 | 75 |
+| last60d | 2026-09-02 | 1 | 110 | 1 | 16 | 4 | 126 |
+| 90d | 2026-08-03 | 1 | 157 | 1 | 22 | 4 | 189 |
+| last180d | 2026-05-05 | 1 | 279 | 1 | 34 | 11 | 336 |
+| 360d | 2025-11-06 | 4 | 644 | 1 | 70 | 23 | 797 |
+| last720d | 2024-11-11 | 8 | 1385 | 1 | 229 | 86 | 1728 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:36:38Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:03:46Z._
