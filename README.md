@@ -33,27 +33,27 @@ Total: **94,832** lines of code across **1052** files in the top 5 languages.
 ## Release
 
 - **Latest**: `8.1.0` (2026-10-28)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 19,327 · **Forks**: 751 · **Open issues**: 995 · **Contributors**: 287
+- **Stars**: 19,331 · **Forks**: 751 · **Open issues**: 995 · **Contributors**: 287
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 3336 · **Open PRs**: 2 · **Closed issues**: 795 · **Open issues**: 200 · **Commits**: 4681
+- **Releases**: 32 · **Merged PRs**: 3339 · **Open PRs**: 2 · **Closed issues**: 795 · **Open issues**: 200 · **Commits**: 4684
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 61 | 2 | 3 | 4 | 66 |
-| last60d | 2026-09-18 | 1 | 102 | 2 | 15 | 6 | 119 |
-| 90d | 2026-08-19 | 1 | 163 | 2 | 21 | 6 | 190 |
-| last180d | 2026-05-21 | 1 | 290 | 2 | 34 | 11 | 339 |
-| 360d | 2025-11-22 | 3 | 633 | 2 | 67 | 23 | 780 |
-| last720d | 2024-11-27 | 8 | 1377 | 2 | 223 | 80 | 1729 |
+| 30d | 2026-10-20 | 1 | 60 | 2 | 3 | 3 | 69 |
+| last60d | 2026-09-20 | 1 | 104 | 2 | 15 | 6 | 122 |
+| 90d | 2026-08-21 | 1 | 164 | 2 | 21 | 6 | 193 |
+| last180d | 2026-05-23 | 1 | 291 | 2 | 34 | 11 | 342 |
+| 360d | 2025-11-24 | 3 | 635 | 2 | 67 | 23 | 783 |
+| last720d | 2024-11-29 | 8 | 1378 | 2 | 223 | 79 | 1729 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:04:04Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:30:16Z._
