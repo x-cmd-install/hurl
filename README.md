@@ -14,11 +14,11 @@ x install hurl
 
 ## Code insight
 
-Total: **95,167** lines of code across **1052** files in the top 5 languages.
+Total: **95,160** lines of code across **1052** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 60,118 | 6,164 | 5,457 | 276 |
+| Rust | 60,111 | 6,166 | 5,458 | 276 |
 | Json | 13,649 | 0 | 0 | 31 |
 | Html | 7,731 | 0 | 48 | 27 |
 | Python | 6,550 | 212 | 1,441 | 200 |
@@ -38,22 +38,22 @@ Total: **95,167** lines of code across **1052** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 19,374 · **Forks**: 756 · **Open issues**: 996 · **Contributors**: 289
+- **Stars**: 19,383 · **Forks**: 756 · **Open issues**: 997 · **Contributors**: 289
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 3352 · **Open PRs**: 0 · **Closed issues**: 796 · **Open issues**: 200 · **Commits**: 4703
+- **Releases**: 32 · **Merged PRs**: 3354 · **Open PRs**: 2 · **Closed issues**: 796 · **Open issues**: 201 · **Commits**: 4705
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 51 | 0 | 3 | 3 | 0 |
-| last60d | 2026-09-28 | 1 | 111 | 0 | 15 | 6 | 0 |
-| 90d | 2026-08-29 | 1 | 163 | 0 | 21 | 6 | 0 |
-| last180d | 2026-05-31 | 1 | 294 | 0 | 35 | 10 | 0 |
-| 360d | 2025-12-02 | 3 | 632 | 0 | 66 | 23 | 0 |
-| last720d | 2024-12-07 | 7 | 1360 | 0 | 220 | 76 | 1710 |
+| 30d | 2026-10-29 | 0 | 51 | 2 | 2 | 4 | 68 |
+| last60d | 2026-09-29 | 1 | 113 | 2 | 15 | 7 | 139 |
+| 90d | 2026-08-30 | 1 | 164 | 2 | 21 | 7 | 199 |
+| last180d | 2026-06-01 | 1 | 295 | 2 | 35 | 11 | 354 |
+| 360d | 2025-12-03 | 3 | 632 | 2 | 66 | 24 | 786 |
+| last720d | 2024-12-08 | 7 | 1360 | 2 | 219 | 77 | 1709 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for hurl lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:43:50Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:00:04Z._
